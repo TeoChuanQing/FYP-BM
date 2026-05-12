@@ -41,3 +41,4 @@ aiofiles                       # Async file I/O for saving uploaded audio files
 
 # ── Database (MongoDB) ───────────────────────────────────────────────────────
 pymongo                       # MongoDB driver for Python (NoSQL database)
+certifi                       # SSL certificates for secure MongoDB connections
