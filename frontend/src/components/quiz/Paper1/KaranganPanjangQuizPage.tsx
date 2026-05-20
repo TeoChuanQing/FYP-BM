@@ -247,7 +247,7 @@ export default function KaranganPanjangQuizPage() {
       </div>
 
       {/* Textarea — hide after submission */}
-      {!loading && !result && !error && (
+      {!loading && !result && (
         <>
           <div className="text-area-karangan">
             <textarea
